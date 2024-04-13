@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767382747753",
+    "project_id": "projetokotlin-9cc9d",
+    "storage_bucket": "projetokotlin-9cc9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767382747753:android:13ddd205c170130e47c0f8",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.aula5.projetokotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsVu0zLFjA7gj7Red1TeH2lVMS3L1no4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

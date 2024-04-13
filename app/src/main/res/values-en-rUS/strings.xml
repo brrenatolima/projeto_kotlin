@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ProjetoKotlin</string>
+	<string name="register_question">Don\'t you have an account?</string>
+	<string name="register_link">Register</string>
+	<string name="email_label">Email</string>
+	<string name="password_label">Password</string>
+	<string name="login_text_button">Login</string>
+	<string name="register_text_button">Register</string>
+	<string name="login_question">Already have an account?</string>
+	<string name="login_link">Login</string>
+	<string name="recovery_link">Recovery account</string>
+	<string name="recovery_button">Recovery Account</string>
+	<string name="recovery_email_send">Email sent for your account!</string>
+	<string name="safety_password">Safety Password</string>
+	<string name="safety_email">Email validate</string>
+
+
+	<string name="logout_button">Logout</string>
+	<string name="next_button">Next</string>
+	
+	<string name="main_title_bar">Todo List</string>
+	<string name="title_todo">To-do</string>
+	<string name="content_todo">Anotation</string>
+	<string name="title_activity_recovery">RecoveryActivity</string>
+
+
+	<string name="chose_photo">Chose a profile photo.</string>
+
+	<string name="title_activity_settings">SettingsActivity</string>
+
+	<!-- Preference Titles -->
+	<string name="messages_header">Messages</string>
+	<string name="sync_header">Sync</string>
+
+	<!-- Messages Preferences -->
+	<string name="signature_title">Your signature</string>
+	<string name="reply_title">Default reply action</string>
+
+	<!-- Sync Preferences -->
+	<string name="sync_title">Sync email periodically</string>
+	<string name="attachment_title">Download incoming attachments</string>
+	<string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+	<string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+	<string name="active_label">Active</string>
+	<string name="expired_label">Expired</string>
+
+</resources>
